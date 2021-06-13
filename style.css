@@ -1,0 +1,86 @@
+body
+{
+    height: 700px;
+    background: linear-gradient(to top right, #33ddc6 0%, #d814b7 100%);
+}
+.main
+{
+    background-color: white;
+    width: 300px;
+    height: 85vh;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.username
+{
+    margin-top: 100px;
+}
+.username2
+{
+    width: 230px;
+}
+.password
+{
+    margin-top: 20px;
+}
+.password2
+{
+    width: 230px;
+}
+.button
+{
+    width: 230px;
+    background: linear-gradient(to top right, #33ddc6 0%, #d814b7 100%);
+    cursor: pointer;
+    height: 35px;
+    border-radius: 40px;
+}
+.facebook
+{
+    background: #3B5998;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    width: 40px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 50px;
+}
+.twitter 
+{
+    background: #55ACEE;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    width: 40px;
+    border-radius: 60%;
+    float:left;
+    margin-left: 10px;
+}
+.google{
+    background: red;
+    color: white;
+    padding: 10px;
+   border-radius: 50%;
+   font-size: 30px;
+    width: 40px;
+    float: left;
+    margin-left: 10px;
+}
+.add{
+    font-size: 12px;
+    font-family:sans-serif;
+    float:none;
+    padding: 160px;
+    padding-right: 65px;
+    padding-left: 65px;
+}
+.last
+{
+    font-size: 15px;
+    
+    padding-bottom: 200px;
+    
+  
+
+}
